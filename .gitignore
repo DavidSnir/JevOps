@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# eval output (generated, may contain prompts/metrics)
+eval/results.json
+eval/*.log
