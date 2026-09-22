@@ -9,12 +9,6 @@ export default function Header() {
           <h1 className="text-lg font-semibold leading-tight">PlantPal</h1>
           <p className="text-sm text-zinc-500">Jev gate vs. LLM gate</p>
         </div>
-        <a
-          href="/eval"
-          className="ml-auto rounded-full border border-zinc-200 px-3 py-1 text-sm text-zinc-600 hover:bg-zinc-100 dark:border-zinc-700 dark:text-zinc-300 dark:hover:bg-zinc-800"
-        >
-          Eval
-        </a>
       </div>
     </header>
   );
